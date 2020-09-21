@@ -3,5 +3,7 @@
         "lib/**/*.jar",
         "algs4.jar",
         "jar files/algs4.jar"
-    ]
+    ],
+    "editor.tabSize": 1,
+    "editor.detectIndentation": false
 }
